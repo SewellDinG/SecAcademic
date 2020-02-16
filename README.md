@@ -13,7 +13,7 @@
 9. [IJISP International Journal of Information Security and Privacy](http://dblp.uni-trier.de/db/journals/ijisp/)  
 
 
-## 近年异常(入侵)检测类学术文章
+## 异常（入侵）检测
 1. [Cyber intrusion detection by combined feature selection algorithm](https://www.sciencedirect.com/science/article/abs/pii/S2214212618304617?via%3Dihub) 基于组合特征和聚类算法的入侵检测（KDD99）  
 2. [Discovering and utilising expert knowledge from security event logs](https://www.sciencedirect.com/science/article/abs/pii/S2214212619303060?via%3Dihub) 主机事件挖掘  
 3. [Intrusion response prioritization based on fuzzy ELECTRE multiple criteria decision making technique](https://www.sciencedirect.com/science/article/abs/pii/S2214212618307932?via%3Dihub)  
@@ -64,10 +64,6 @@
 48. [Development of an efficient classifier using proposed sensitivity-based feature selection technique for intrusion detection system](http://www.inderscience.com/storage/f611048927311512.pdf) 入侵检测特征选择技术  
 49. [Building an Effective Approach toward Intrusion Detection Using Ensemble Feature Selection](https://www.igi-global.com/gateway/article/232667) 基于集合特征选择的入侵检测  
 
-
-
-
-
 ## 横向移动专题
 1. [Lateral Movement Detection Using Distributed Data Fusion](https://ieeexplore.ieee.org/abstract/document/7794326) 基于数据融合的横向移动检测  
 2. [An Unsupervised Multi-Detector Approach for Identifying Malicious Lateral Movement](https://ieeexplore.ieee.org/abstract/document/8069085) 无监督多检测点的横向移动检测  
@@ -81,21 +77,17 @@
 10. [CERT-EU_SWP_17-002_Lateral_Movements]() 欧洲应急响应中心的关于横向移动检测的报告  
 11. [Detecting Lateral Movement Through Tracking Event Logs_version2]() 日本国家应急响应中心的通过日志检测横向移动的报告  
 
-
-
-## 基于主机日志（事件）类学术论文
+## 基于主机日志（事件）
 1. [Discovering and utilising expert knowledge from security event logs](https://www.sciencedirect.com/science/article/abs/pii/S2214212619303060?via%3Dihub)主机事件挖掘  
 2. [Identifying irregularities in security event logs through an object-based Chi-squared test of independence](https://www.sciencedirect.com/science/article/abs/pii/S2214212617304714?via%3Dihub)识别安全事件中的违规行为  
 3. [Beehive: large-scale log analysis for detecting suspicious activity in enterprise networks](https://dl.acm.org/citation.cfm?id=2523670) 从各类安全事件（告警）日志中提取有价值信息  
 
 
-## Web安全类学术文章（CCF 会议期刊ABC）
+## Web安全
 1. [SQL Injection Attack classification through the feature extraction of SQL query strings using a Gap-Weighted String Subsequence Kernel](https://www.sciencedirect.com/science/article/abs/pii/S2214212617303691?via%3Dihub)
 2. [SQL injection attacks - a systematic review](http://www.inderscience.com/offer.php?id=101937) SQL注入检测综述  
 
-
-
-## 恶意软件类
+## 恶意软件
 1. [Classification of malware families based on runtime behaviors](https://www.sciencedirect.com/science/article/abs/pii/S2214212617301643?via%3Dihub)  
 2. [A Feature Extraction Method of Hybrid Gram for Malicious Behavior Based on Machine Learning](https://www.hindawi.com/journals/scn/2019/2674684/)  
 3. [Malware Detection on Byte Streams of PDF Files Using Convolutional Neural Networks](https://www.hindawi.com/journals/scn/2019/8485365/)  
@@ -121,8 +113,6 @@
 4. [Preventing Distributed Denial-of-Service Flooding Attacks With Dynamic Path Identifiers](https://ieeexplore.ieee.org/document/7888484) 基于动态路径标识的DDOS防御  
 5. [HADEC: Hadoop-based live DDoS detection framework.](https://dblp.uni-trier.de/db/journals/ejisec/ejisec2018.html) 基于hadoop的DDOS检测  
 
-
-
 ## 域名类
 1. [An Imbalanced Malicious Domains Detection Method Based on Passive DNS Traffic Analysis](https://www.hindawi.com/journals/scn/2018/6510381/) 基于DNS流量不平衡的恶意域名检测  
 2. [Issues and challenges in DNS based botnet detection: A survey](https://www.sciencedirect.com/science/article/pii/S0167404819301117?via%3Dihub) 僵尸网络DNS隧道的调查  
@@ -139,6 +129,10 @@
 
 ## 爬虫检测
 1. [Detection Method for Distributed Web-Crawlers: A Long-Tail Threshold Model](https://www.hindawi.com/journals/scn/2018/9065424/) 分布式爬虫检测  
+
+## 流量识别（补充）
+
+1. [The Application of Deep Learning on Traffic Identification](https://www.youtube.com/watch?v=yZ-Y1WCM0lc) 基于深度学习的流量识别
 
 
 ## 防御类
