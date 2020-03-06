@@ -133,6 +133,10 @@
 ## 流量识别（补充）
 
 1. [The Application of Deep Learning on Traffic Identification](https://www.youtube.com/watch?v=yZ-Y1WCM0lc) 基于深度学习的流量识别
+2. 陈良臣, 高曙, 刘宝旭, and 卢志刚. "网络加密流量识别研究进展及发展趋势." 信息网络安全 19, no. 3 (2019): 19-25.
+3. 潘吴斌, 程光, 郭晓军, and 黄顺翔. "网络加密流量识别研究综述及展望." Journal on Communications (2016).
+4. Wang, Wei, Ming Zhu, Xuewen Zeng, Xiaozhou Ye, and Yiqiang Sheng. "Malware traffic classification using convolutional neural network for representation learning." In 2017 International Conference on Information Networking (ICOIN), pp. 712-717. IEEE, 2017.
+5. Draper-Gil, Gerard, Arash Habibi Lashkari, Mohammad Saiful Islam Mamun, and Ali A. Ghorbani. "Characterization of encrypted and vpn traffic using time-related." In Proceedings of the 2nd international conference on information systems security and privacy (ICISSP), pp. 407-414. 2016.
 
 
 ## 防御类
@@ -150,3 +154,6 @@
 3. https://vizsec.org/data/ 
 4. https://github.com/logpai/loghub 
 5. https://snap.stanford.edu/data/index.html 斯坦福大学数据集
+6. [https://www.stratosphereips.org/datasets-malware](https://www.stratosphereips.org/datasets-malware) 恶意软件家族原始流量数据集
+7. [VPN-nonVPN dataset (ISCXVPN2016)](https://mathpretty.com/wp-content/themes/begin/go.php?url=aHR0cHM6Ly93d3cudW5iLmNhL2NpYy9kYXRhc2V0cy92cG4uaHRtbA==)
+8. [Tor-nonTor dataset (ISCXTor2016)](https://mathpretty.com/wp-content/themes/begin/go.php?url=aHR0cHM6Ly93d3cudW5iLmNhL2NpYy9kYXRhc2V0cy90b3IuaHRtbA==)
